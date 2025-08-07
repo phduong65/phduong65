@@ -1,12 +1,7 @@
 
 <h3 align="center">🛠 Technologies and Tools 🛠</h2>
 <!-- https://simpleicons.org/ -->
-<p align=center>
-  <span><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" /></span>
-&nbsp;
-<span><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" /></span>
-&nbsp;
-</p>
+
 
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
