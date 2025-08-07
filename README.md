@@ -64,5 +64,5 @@
 
 <h3 align="left">Activity:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=phduong65&custom_title=Huu%20Trong%20GitHub%20Activity%20Graph&bg_color=0D1117&color=f05032&line=f05032&point=793831&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=phduong65&custom_title=Pham%20Duong%20GitHub%20Activity%20Graph&bg_color=0D1117&color=f05032&line=f05032&point=793831&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
